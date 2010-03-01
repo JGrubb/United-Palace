@@ -12,3 +12,12 @@ body {
 	height: inherit;
 	width: 1000px;
 }
+
+#header {
+	height: 150px;
+	width: inherit;
+}
+
+#logo {
+ margin: 20px;
+}
