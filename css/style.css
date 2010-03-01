@@ -6,18 +6,69 @@ body {
 	width: 100%;
 	height: 100%;
 	background: #000;
+	
 }
 
 #wrapper {
+	position: relative;
 	height: inherit;
 	width: 1000px;
+	margin: auto; 
+	font-family: verdana;
 }
 
 #header {
-	height: 150px;
+	height: 125px;
 	width: inherit;
 }
 
 #logo {
- margin: 20px;
+ 	margin: 20px;
 }
+
+#header-wrap {
+	position: absolute; top: 70px; right:0;
+	text-transform: uppercase;
+}
+
+#header-wrap p {
+	color: #eee;
+	text-align: right;
+	padding-bottom: 10px;
+	font-size: 9px;
+}
+
+#header-wrap a {
+	color: #eee;
+	text-decoration: none;
+}
+
+#header-wrap a:hover {
+	color: #d7cc01;
+}
+
+#header-wrap .yellow {
+	color: #d7cc01;
+}
+
+ul.topnav li {
+ display: inline;
+ padding-left:20px;
+}
+
+ul.topnav a {
+	color: #eee;
+	text-decoration: none;
+	font-size: 12px;
+}
+
+#content-wrapper {
+	width: 852px;
+	margin: 5px 0 5px 148px;}
+
+#banner {
+	border: 1px solid #808080;
+}
+
+
+
