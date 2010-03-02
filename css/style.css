@@ -5,7 +5,7 @@
 body {
 	width: 100%;
 	height: 100%;
-	background: #000;
+	background: url(../images/bg.jpg) repeat-x #000;
 	
 }
 
@@ -15,6 +15,7 @@ body {
 	width: 1000px;
 	margin: auto; 
 	font-family: verdana;
+	color: #fff;
 }
 
 #header {
@@ -23,11 +24,11 @@ body {
 }
 
 #logo {
- 	margin: 20px;
+ 	margin: 20px 0 0 40px;
 }
 
 #header-wrap {
-	position: absolute; top: 70px; right:0;
+	position: absolute; top: 73px; right:0;
 	text-transform: uppercase;
 }
 
@@ -64,11 +65,45 @@ ul.topnav a {
 
 #content-wrapper {
 	width: 852px;
-	margin: 5px 0 5px 148px;}
+	margin: 5px 0 5px 148px;
+	background: rgba(0,0,0,.4);}
 
 #banner {
 	border: 1px solid #808080;
 }
 
+#content-area {
+	width: 785px;
+	border: 1px solid #808080;
+	margin-top: 5px;
+	padding: 15px 40px 30px 25px;
+}
+
+#content-area img {
+	margin-bottom: 10px;
+}
+
+#content-area p {
+	color: #808080;
+	font-size: 12px;
+	line-height: 17px;
+}
+
+#homepage-events {
+	width: 500px;
+}
+
+#top-event {
+	width: inherit;
+	height: 195px;
+}
+
+#top-event .event-info {
+	position: absolute; top: 0; right: 0;}
+
+#homepage-welcome {
+	display: none;
+	width: 275px;
+}
 
 
