@@ -90,12 +90,13 @@ ul.topnav a {
 	line-height: 17px;
 }
 
-img.home-header {
-	margin-bottom: 40px;
-}
 
 #homepage-events {
-	width: 500px;
+	width: 580px;
+	float: left;
+}
+
+.float-left {
 	float: left;
 }
 
@@ -105,17 +106,20 @@ img.home-header {
 
 #main-event {
 	width: inherit;
-	height: 150px;
+	height: 200px;
 }
 
-.main-info {
-	position: relative; top: -180px; right: -395px;}
+.event-info {
+	width: auto;
+}
 	
 #sub-wrapper {
 	position: relative; top: -70px; 
+	clear: both;
 }
 	
 .sub {
+	clear: right;
 	float: left;
 }
 
@@ -123,8 +127,7 @@ img.home-header {
 	margin-left: 132px;}
 
 #homepage-welcome {
-	
-	width: 200px;
+	width: auto;
 }
 
 
