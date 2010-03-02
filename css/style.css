@@ -39,17 +39,25 @@ body {
 	font-size: 9px;
 }
 
-#header-wrap a {
+a {
 	color: #eee;
 	text-decoration: none;
+}
+
+a:hover {
+	color: #d7cc01;
 }
 
 #header-wrap a:hover {
 	color: #d7cc01;
 }
 
-#header-wrap .yellow {
+.yellow {
 	color: #d7cc01;
+}
+
+.bold {
+	font-weight: bold;
 }
 
 ul.topnav li {
@@ -66,7 +74,7 @@ ul.topnav a {
 #content-wrapper {
 	width: 852px;
 	margin: 5px 0 5px 108px;
-	background: rgba(0,0,0,.2);}
+}
 
 #banner {
 	border: 1px solid #808080;
@@ -78,26 +86,22 @@ ul.topnav a {
 	margin-top: 5px;
 	padding: 15px 40px 30px 25px;
 	min-height: 430px;
+	background: rgba(0,0,0,.2);
 }
 
 #content-area img {
 	margin-bottom: 10px;
 }
 
-#content-area p {
-	color: #808080;
-	font-size: 12px;
-	line-height: 17px;
-}
-
 
 #homepage-events {
-	width: 580px;
+	width: 551px;
 	float: left;
 }
 
 .float-left {
 	float: left;
+	margin-right: 20px;
 }
 
 .home-info {
@@ -111,23 +115,61 @@ ul.topnav a {
 
 .event-info {
 	width: auto;
+	margin-right:30px;
+	padding-top: 40px;
+}
+
+p.home-band {
+	font-size: 18px;
+	color: #fff;
+	padding-bottom: 15px;
+}
+
+p.home-days {
+	padding-top: 10px;
+	font-size: 12px;
 }
 	
 #sub-wrapper {
-	position: relative; top: -70px; 
 	clear: both;
 }
 	
 .sub {
+	width: 254px;
 	clear: right;
 	float: left;
+	margin-top: 10px;
 }
-
-.space {
-	margin-left: 132px;}
 
 #homepage-welcome {
 	width: auto;
+	color: #808080;
+	font-size: 12px;
+	line-height: 17px;
 }
 
+ul.bottom-nav {
+	text-align: center;
+	list-style: none;
+	padding: 20px 0;
+}
 
+ul.bottom-nav li {
+	display: inline;
+	padding: 0 10px;
+	font-size: 12px;
+	text-transform: uppercase;
+}
+
+.copyright {
+	text-align: center;
+	font-size: 9px;
+	margin-bottom: 10px;
+}
+
+.us {
+	font-size: 8px;
+	text-decoration: none;
+	text-align: center;
+	margin-bottom: 15px;
+}
