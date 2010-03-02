@@ -85,7 +85,7 @@ ul.topnav a {
 	border: 1px solid #808080;
 	margin-top: 5px;
 	padding: 15px 40px 30px 25px;
-	min-height: 430px;
+	min-height: 420px;
 	background: rgba(0,0,0,.2);
 }
 
@@ -135,7 +135,7 @@ p.home-days {
 }
 	
 .sub {
-	width: 254px;
+	width: 255px;
 	clear: right;
 	float: left;
 	margin-top: 10px;
