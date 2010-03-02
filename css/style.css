@@ -61,8 +61,13 @@ a:hover {
 }
 
 ul.topnav li {
- display: inline;
- padding-left:20px;
+	display: inline;
+	padding:0 8px 0 12px;
+	border-left: 1px solid #fff;
+}
+
+ul.topnav li:first-child {
+	border: none;
 }
 
 ul.topnav a {
@@ -181,9 +186,14 @@ ul.bottom-nav {
 
 ul.bottom-nav li {
 	display: inline;
-	padding: 0 10px;
+	padding: 0 8px 0 12px;
 	font-size: 12px;
+	border-left: 1px solid #fff;
 	text-transform: uppercase;
+}
+
+ul.bottom-nav li:first-child {
+	border: none;
 }
 
 .faq {
