@@ -85,8 +85,10 @@ ul.topnav a {
 	border: 1px solid #808080;
 	margin-top: 5px;
 	padding: 15px 40px 30px 25px;
-	min-height: 420px;
+	min-height: 450px;
 	background: rgba(0,0,0,.2);
+	color: #808080;
+	font-size: 12px;
 }
 
 #content-area img {
@@ -129,6 +131,11 @@ p.home-days {
 	padding-top: 10px;
 	font-size: 12px;
 }
+
+.event-page-band {
+	font-size: 15px;
+	text-transform: uppercase;
+}
 	
 #sub-wrapper {
 	clear: both;
@@ -141,12 +148,27 @@ p.home-days {
 	margin-top: 10px;
 }
 
+.events-sub {
+	width: 335px;
+	clear: right;
+	float: left;
+	margin-top: 10px;
+}
+
 #homepage-welcome {
 	width: auto;
 	color: #808080;
 	font-size: 12px;
-	line-height: 17px;
+	line-height: 22px;
 }
+
+#directions-right {
+	float: right;
+	margin-left: 25px;
+}
+
+#directions-left {
+	margin-right: 400px;}
 
 ul.bottom-nav {
 	text-align: center;
