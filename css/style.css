@@ -91,7 +91,7 @@ ul.topnav a {
 	margin-top: 5px;
 	padding: 15px 40px 30px 25px;
 	height: auto;
-	min-height: 420px;
+	min-height: 450px;
 	background: rgba(0,0,0,.2);
 	color: #808080;
 	font-size: 12px;
@@ -122,7 +122,7 @@ img.home-header {
 
 #main-event {
 	width: inherit;
-	height: 200px;
+	height: auto;
 }
 
 .event-info {
@@ -131,15 +131,25 @@ img.home-header {
 	padding-top: 40px;
 }
 
+.main-event-info {
+	position: relative; top: 0px; right: -20px;
+	width: auto;
+}
+
 p.home-band {
 	font-size: 18px;
-	color: #fff;
 	padding-bottom: 15px;
 }
 
 p.home-days {
 	padding-top: 10px;
 	font-size: 12px;
+}
+
+p.event-page-band {
+	text-transform: uppercase;
+	font-size: 18px;
+	line-height: 23px;
 }
 	
 #sub-wrapper {
@@ -153,11 +163,18 @@ p.home-days {
 	margin-top: 10px;
 }
 
+.events-sub {
+	width: 340px;
+	clear: right;
+	float: left;
+	margin-top: 10px;
+	}
+
 #homepage-welcome {
 	width: auto;
 	color: #808080;
 	font-size: 12px;
-	line-height: 17px;
+	line-height: 22px;
 }
 
 #homepage-welcome p {
