@@ -19,16 +19,17 @@ body {
 }
 
 #header {
-	height: 125px;
+	height: 135px;
 	width: inherit;
 }
 
 #logo {
- 	margin: 20px 0 0 0;
+ 	margin-top: 10px;
+ 	border: 0;
 }
 
 #header-wrap {
-	position: absolute; top: 73px; right:0;
+	position: absolute; top: 85px; right:0;
 	text-transform: uppercase;
 }
 
@@ -85,7 +86,7 @@ ul.topnav a {
 	border: 1px solid #808080;
 	margin-top: 5px;
 	padding: 15px 40px 30px 25px;
-	min-height: 450px;
+	min-height: 380px;
 	background: rgba(0,0,0,.2);
 	color: #808080;
 	font-size: 12px;
@@ -95,6 +96,16 @@ ul.topnav a {
 	margin-bottom: 10px;
 }
 
+#event-content-area {
+	width: 785px;
+	border: 1px solid #808080;
+	margin-top: 5px;
+	padding: 15px 40px 30px 25px;
+	min-height: 440px;
+	background: rgba(0,0,0,.2);
+	color: #808080;
+	font-size: 12px;
+}
 
 #homepage-events {
 	width: 551px;
@@ -152,7 +163,7 @@ p.home-days {
 	width: 335px;
 	clear: right;
 	float: left;
-	margin-top: 10px;
+	margin-top: 18px;
 }
 
 #homepage-welcome {
@@ -168,7 +179,17 @@ p.home-days {
 }
 
 #directions-left {
-	margin-right: 400px;}
+	margin-right: 400px;
+}
+
+#content-area.seating {
+	padding:25px 33px 20px 32px;
+	margin-top: 10px;
+}
+
+.center {
+	position: 50%;
+}
 
 ul.bottom-nav {
 	text-align: center;
