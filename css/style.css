@@ -62,13 +62,8 @@ a:hover {
 }
 
 ul.topnav li {
-	display: inline;
-	padding:0 8px 0 12px;
-	border-left: 1px solid #fff;
-}
-
-ul.topnav li:first-child {
-	border: none;
+ display: inline;
+ padding-left:20px;
 }
 
 ul.topnav a {
@@ -117,9 +112,6 @@ ul.topnav a {
 	float: left;
 }
 
-img.home-header {
-	padding-bottom: 15px;}
-
 .float-left {
 	float: left;
 	margin-right: 20px;
@@ -131,7 +123,7 @@ img.home-header {
 
 #main-event {
 	width: inherit;
-	height: auto;
+	height: 200px;
 }
 
 .event-info {
@@ -140,13 +132,9 @@ img.home-header {
 	padding-top: 40px;
 }
 
-.main-event-info {
-	position: relative; top: 0px; right: -20px;
-	width: auto;
-}
-
 p.home-band {
 	font-size: 18px;
+	color: #fff;
 	padding-bottom: 15px;
 }
 
@@ -155,7 +143,6 @@ p.home-days {
 	font-size: 12px;
 }
 
-<<<<<<< HEAD
 .event-page-band {
 	font-size: 15px;
 	text-transform: uppercase;
@@ -173,7 +160,6 @@ p.home-days {
 }
 
 .events-sub {
-<<<<<<< HEAD
 	width: 335px;
 	clear: right;
 	float: left;
@@ -187,7 +173,6 @@ p.home-days {
 	line-height: 22px;
 }
 
-<<<<<<< HEAD
 #directions-right {
 	float: right;
 	margin-left: 25px;
@@ -214,19 +199,9 @@ ul.bottom-nav {
 
 ul.bottom-nav li {
 	display: inline;
-	padding: 0 8px 0 12px;
+	padding: 0 10px;
 	font-size: 12px;
-	border-left: 1px solid #fff;
 	text-transform: uppercase;
-}
-
-ul.bottom-nav li:first-child {
-	border: none;
-}
-
-.faq {
-	padding: 15px 0;
-	line-height: 25px;
 }
 
 .copyright {
