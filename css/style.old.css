@@ -130,11 +130,6 @@ ul.topnav a {
 	height: 200px;
 }
 
-.main-event-info {
-	width: auto;
-	margin-right: 30px;
-}
-
 .event-info {
 	width: auto;
 	margin-right:30px;
@@ -179,7 +174,7 @@ p.home-days {
 	width: auto;
 	color: #808080;
 	font-size: 12px;
-	line-height: 18px;
+	line-height: 22px;
   margin-left: 553px;
 }
 
