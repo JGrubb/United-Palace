@@ -25,6 +25,7 @@
 				 <li><a href="./index.html" title="Home">Home</a></li>
 				 <li><a href="./events.html" title="Events">Events</a></li>
 				 <li><a href="./seating.html" title="Seating">Seating</a></li>
+				 <li><a href="JavaScript:popValet()">Valet Parking</a></li>
 				 <li><a href="./directions.html" title="Directions">Directions</a></li>
 				 <li><a href="./contact.html" title="Contact">Contact</a></li>
 			 </ul>
@@ -76,14 +77,6 @@
             <div id="valet-wrapper">
                 	<div class="valetsub">
                      <a href="JavaScript:popValet()"><img src="images/UPCVbutton.jpg" width="382" height="130" border="0" alt="Valet Parking" /></a>
-                     <SCRIPT language=JavaScript> 
-function popValet() 
-{
-  myWin = window.open('valetparking.html','mywin','width=850,height=400,toolbar=0,status=0,resizable=1')
-  myWin.focus();
-return;
-} 
-</SCRIPT>
                      </div>
               </div>
 			</div><!--home events-->
@@ -107,6 +100,14 @@ return;
 		</div>
 	</div><!--content wrapper, stretched over footer to keep off-centered-->
 </div><!--wrapper-->
+<script type="text/javascript"> 
+function popValet() 
+{
+  myWin = window.open('valetparking.html','mywin','width=850,height=450,toolbar=0,status=0,resizable=1')
+  myWin.focus();
+return;
+} 
+</script>
 <script type="text/javascript"> 
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
