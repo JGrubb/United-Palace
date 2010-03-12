@@ -130,6 +130,14 @@ ul.topnav a {
 	height: 243px;
 }
 
+.border {
+	border: 1px solid #808080;
+}
+
+.bigger {
+	font-size: 15px;
+}
+
 #content-area {
 	width: 785px;
 	border: 1px solid #808080;
