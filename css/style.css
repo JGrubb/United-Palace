@@ -70,7 +70,7 @@ a:hover {
 
 ul.topnav li {
  display: inline;
- padding-left:20px;
+ padding-left:23px;
 }
 
 ul.topnav a {
@@ -120,6 +120,12 @@ ul.topnav a {
 
 .valet {
 	background: url(../images/valet.jpg) no-repeat;
+	width: 850px;
+	height: 243px;
+}
+
+.lounge {
+	background: url(../images/lounge.jpg) no-repeat;
 	width: 850px;
 	height: 243px;
 }
@@ -226,6 +232,10 @@ p.home-days {
 
 #div-left {
 	margin-right: 400px;
+}
+
+.keys {
+	margin-right: 50px;
 }
 
 #content-area.seating {
