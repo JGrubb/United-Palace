@@ -83,21 +83,46 @@ ul.topnav a {
 
 #banner {
 	border: 1px solid #808080;
-	width: 850px;
-	height: 243px;
 }
 
 .header-copy {
 	color: #808080;
 	font-size: 12px;
 	line-height: 18px;
-	width: 200px;
-	margin-left: 600px;
-	margin-top: 60px;
+	width: 230px;
+	text-align: justify;
+	margin-left: 578px;
+	margin-top: 69px;
 	}
 
 .events {
 	background: url(../images/events_banner.jpg) no-repeat;
+	width: 850px;
+	height: 243px;
+}
+
+.contact {
+	background: url(../images/contact.jpg) no-repeat;
+	width: 850px;
+	height: 243px;
+}
+
+.directions {
+	background: url(../images/directions.jpg) no-repeat;
+	width: 850px;
+	height: 243px;
+}
+
+.seating {
+	background: url(../images/seating.jpg) no-repeat;
+	width: 850px;
+	height: 243px;
+}
+
+.valet {
+	background: url(../images/valet.jpg) no-repeat;
+	width: 850px;
+	height: 243px;
 }
 
 #content-area {
