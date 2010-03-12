@@ -19,7 +19,10 @@ body {
 	width: 960px;
 	margin: auto; 
 	font-family: verdana;
-	color: #fff;
+	color: #808080;
+	font-size: 12px;
+	line-height: 18px;
+	text-align: justify;
 }
 
 #header {
@@ -86,11 +89,7 @@ ul.topnav a {
 }
 
 .header-copy {
-	color: #808080;
-	font-size: 12px;
-	line-height: 18px;
 	width: 230px;
-	text-align: justify;
 	margin-left: 578px;
 	margin-top: 69px;
 	}
@@ -217,9 +216,6 @@ p.home-days {
 
 #homepage-welcome {
 	width: auto;
-	color: #808080;
-	font-size: 12px;
-	line-height: 18px;
     margin-left: 550px;
 }
 
@@ -265,75 +261,4 @@ ul.bottom-nav li {
 	text-decoration: none;
 	text-align: center;
 	margin-bottom: 15px;
-}
-#disctext p  {
-   margin: 0px;
-   text-align: left;
-   color: #FFFFFF;
-   line-height: 18px;
-   font-family: Verdana, sans-serif;
-}
-
-#valetparkinggraphic  {
-   background: url(../images/valetparkinggraphic.jpg) no-repeat;
-   visibility: visible;
-   position: absolute;
-   left: 49px;
-   top: 28px;
-   z-index: 5;
-   width: 230px;
-   height: 36px;
-}
-
-#eventsbackground  {
-   visibility: visible;
-   position: absolute;
-   left: 0px;
-   top: 0px;
-   z-index: 3;
-   width: 848px;
-   height: 400px;
-   background-color: #000000;
-   background-image: none;
-}
-#disctext p  {
-   font-size: 9px;
-}
-#bodytext p  {
-   font-size: 12px;
-}
-#bodytext  {
-   visibility: visible;
-   position: absolute;
-   font-family: Verdana, sans-serif;
-   color:#FFFFFF;
-   left: 45px;
-   top: 86px;
-   z-index: 6;
-   width: 370px;
-}
-#disctext  {
-   visibility: visible;
-   position: absolute;
-   left: 46px;
-   top: 367px;
-   z-index: 5;
-   width: 449px;
-}
-
-#upcpopup  {
-   margin: 0px auto 0px auto;
-   width: 848px;
-   position: relative;
-}
-
-#graphic  {
-   background: url(../images/graphic.jpg) no-repeat;
-   visibility: visible;
-   position: absolute;
-   left: 249px;
-   top: 0px;
-   z-index: 4;
-   width: 599px;
-   height: 400px;
 }
