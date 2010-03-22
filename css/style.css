@@ -130,7 +130,15 @@ ul.topnav a {
 	height: 243px;
 }
 
-.border {
+.white-border {
+	border: 1px solid #fff;
+}
+
+.top-margin-20 {
+	margin-top: 20px;
+}
+
+.grey-border {
 	border: 1px solid #808080;
 }
 
@@ -158,7 +166,7 @@ ul.topnav a {
 	border: 1px solid #808080;
 	margin-top: 5px;
 	padding: 15px 40px 30px 25px;
-	min-height: 440px;
+	min-height: 170px;
 	background: rgba(0,0,0,.2);
 	color: #808080;
 	font-size: 12px;
@@ -198,6 +206,7 @@ p.home-band {
 	font-size: 18px;
 	color: #fff;
 	padding-bottom: 15px;
+	text-align: left;
 }
 
 p.home-days {
@@ -208,6 +217,7 @@ p.home-days {
 .event-page-band {
 	font-size: 15px;
 	text-transform: uppercase;
+	text-align: left;
 }
  
 #sub-wrapper {
@@ -215,7 +225,7 @@ p.home-days {
 }
  
 .sub {
-	width: 255px;
+	width: 253px;
 	clear: right;
 	float: left;
 	margin-top: 10px;
