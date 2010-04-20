@@ -199,7 +199,7 @@ ul.topnav a {
 .event-info {
 	width: auto;
 	margin-right:30px;
-	padding-top: 40px;
+	padding-top: 5px;
 }
 
 p.home-band {
@@ -225,7 +225,7 @@ p.home-days {
 }
  
 .sub {
-	width: 253px;
+	width: 145px;
 	clear: right;
 	float: left;
 	margin-top: 10px;
