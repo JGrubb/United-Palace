@@ -13,20 +13,28 @@ body {
  
 }
 
+h1 {
+	font-size: 18px;
+	font-weight: 100;
+	color: #d7cc01;
+	line-height: 22px;
+	text-align: left;
+}
+
 #wrapper {
 	position: relative;
 	height: inherit;
 	width: 960px;
 	margin: auto; 
 	font-family: verdana;
-	color: #808080;
+	color: #a8a8a8;
 	font-size: 12px;
 	line-height: 18px;
 	text-align: justify;
 }
 
 #header {
-	height: 135px;
+	height: 165px;
 	width: inherit;
 }
 
@@ -36,7 +44,7 @@ body {
 }
 
 #header-wrap {
-	position: absolute; top: 85px; right:0;
+	position: absolute; top: 115px; right:0;
 	text-transform: uppercase;
 }
 
@@ -70,13 +78,13 @@ a:hover {
 
 ul.topnav li {
  display: inline;
- padding-left:23px;
 }
 
 ul.topnav a {
 	color: #eee;
 	text-decoration: none;
 	font-size: 12px;
+	padding: 10px;
 }
 
 #content-wrapper {
@@ -130,30 +138,90 @@ ul.topnav a {
 	height: 243px;
 }
 
+.rentals {
+	background: url(../images/venuerental.jpg) no-repeat;
+	width: 850px;
+	height: 241px;
+}
+
+.production {
+	background: url(../images/jab2.jpg) no-repeat;
+	width: 850px;
+	height: 241px;
+}
+
 .white-border {
 	border: 1px solid #fff;
+}
+
+.thick-white-border {
+	border: 2px solid #fff;
 }
 
 .top-margin-20 {
 	margin-top: 20px;
 }
 
+.left-margin-20 {
+	margin-left: 20px;
+}
+
+.top-margin-40 {
+	margin-top: 40px;
+}
+
+.top-padding-20 {
+	padding-top: 20px;
+}
+
+.left-padding-40 {
+	padding-left: 40px;
+}
+
+.left-margin-425 {
+	margin-left: 425px;
+	}
+
 .grey-border {
 	border: 1px solid #808080;
+}
+
+.top-border {
+	border-top: 1px solid #808080;
+}
+
+.bottom-border {
+	border-bottom: 1px solid #808080;
+}
+
+.right-border {
+	border-right: 1px solid #808080;
+}
+
+.left-border {
+	border-left: 1px solid #808080;
 }
 
 .bigger {
 	font-size: 15px;
 }
 
+
 #content-area {
+	width: auto;
+	margin-top: 5px;
+	padding: 15px 0 30px 0;
+	min-height: 750px;
+	font-size: 12px;
+}
+
+#valet-content-area {
 	width: 785px;
 	border: 1px solid #808080;
 	margin-top: 5px;
 	padding: 15px 40px 30px 25px;
-	min-height: 300px;
+	min-height: 320px;
 	background: rgba(0,0,0,.2);
-	color: #808080;
 	font-size: 12px;
 }
 
@@ -166,20 +234,23 @@ ul.topnav a {
 	border: 1px solid #808080;
 	margin-top: 5px;
 	padding: 15px 40px 30px 25px;
-	min-height: 170px;
+	min-height: 570px;
 	background: rgba(0,0,0,.2);
-	color: #808080;
 	font-size: 12px;
 }
 
 #homepage-events {
-	width: 551px;
+	width: 350px;
 	float: left;
 }
 
 .float-left {
 	float: left;
 	margin-right: 20px;
+}
+
+.float-right {
+	float: right;
 }
 
 .home-info {
@@ -191,6 +262,13 @@ ul.topnav a {
 	height: 200px;
 }
 
+#ads {
+	margin-top: 20px;
+	padding-top:20px;
+	border-top:1px solid #808080;
+	width: 300px;
+}
+
 .main-event-info {
 	width: auto;
 	margin-right: 30px;
@@ -198,8 +276,13 @@ ul.topnav a {
 
 .event-info {
 	width: auto;
-	margin-right:30px;
+	margin-right:0 ;
 	padding-top: 5px;
+	text-align: left;
+}
+
+.event-info p {
+	margin: 8px 0;
 }
 
 p.home-band {
@@ -225,31 +308,45 @@ p.home-days {
 }
  
 .sub {
-	width: 145px;
+	width: 420px;
 	clear: right;
 	float: left;
 	margin-top: 10px;
 }
 
 .events-sub {
-	width: 335px;
+	width: 800px;
 	clear: right;
 	float: left;
 	margin-top: 18px;
 }
 
-#homepage-welcome {
+#homepage-copy {
 	width: auto;
-    margin-left: 550px;
+    margin-left: 350px;
+    padding-bottom: 20px;
+    height: auto;
+    line-height: 20px;
 }
 
-#div-right {
+.clear-float {
+	clear: both;
+}
+
+#map {
 	float: right;
 	margin-left: 25px;
 }
 
 #div-left {
-	margin-right: 400px;
+	float: left;
+	width: 380px;
+	margin-right: 40px;
+}
+
+#div-right {
+	width: auto;
+	margin-left: 40px;
 }
 
 .keys {

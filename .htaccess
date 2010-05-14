@@ -1,0 +1,12 @@
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.unitedpalaceconcerts.com$ [NC]
+RewriteRule ^(.*)$ http://unitedpalaceconcerts.com/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^www.unitedpalacetheaterconcerts.com$ [NC]
+RewriteRule ^(.*)$ http://unitedpalaceconcerts.com/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^unitedpalacetheaterconcerts.com$ [NC]
+RewriteRule ^(.*)$ http://unitedpalaceconcerts.com/$1 [R=301,L]
+
+
+</IfModule>
