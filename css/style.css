@@ -145,8 +145,14 @@ ul.topnav a {
 }
 
 .production {
-	background: url(../images/jab2.jpg) no-repeat;
+	background: url(../images/liveproductions.jpg) no-repeat;
 	width: 850px;
+	height: 241px;
+}
+
+.archive {
+	background: url(../images/archives.jpg) no-repeat;
+	widows: 850px;
 	height: 241px;
 }
 
