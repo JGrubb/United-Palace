@@ -2,14 +2,14 @@
 	
 	<div id="content-wrapper">
 		<div id="banner" class="rentals">
-			<div class="header-copy">United Palace Concerts is available to host your next event. Concerts, television and film production, corporate and political functions, award ceremonies, new product introductions, product line shows and movie screenings accommodating groups from 100 to 3,360.
+			<div class="header-copy">Want to make a big impression with your next event? Reserve your dates now through United Palace Concerts Venue Rental.
 			</div>
 		</div>
 		<div id="content-area">
 			<div id="div-left">
-				<p class="top-margin-20">United Palace Concerts venue is one of New York's most exciting and unique architectural landmarks. Built in 1930 by a renowned architect and lovingly refurbished a number of years ago, the venue combines old-world charm with state-of-the-art acoustics and amenities. We've been a concert destination for people with all kinds of musical tastes for years, and now we're opening the doors of our magnificent theater for public and private event rental.</p>
+				<p class="top-margin-20">United Palace Concerts venue is one of New York's most exciting and unique architectural landmarks. Built in 1930 by a renowned architect and meticulously restored a number of years ago, the venue combines old-world glamour with modern-world state-of-the-art acoustics and amenities. We've been a concert destination for a variety of musical tastes for years, and now we're opening our doors for public and private event rental.</p>
 				<p>With a seating capacity of over 3,400, United Palace Concerts can accommodate your needs whatever the occasion may be. We provide complete packages for any type of event including, but not limited to, concerts, movie screenings, political functions, religious gatherings, company sales meetings, corporate events, award ceremonies, product line shows, new product introductions and family reunions.</p>
-				<p>Booking your next event at United Palace Concerts ensures that it will be the most memorable yet. Reservations are filling the calendar quickly for the remainder of 2010, so call or email today to save your dates.</p>	
+				<p>Book your next memorable event at United Palace Concerts. Dates are filling up fast, so call or email us today!</p>	
 				<br />
 				<p class="white">United Palace Concerts<br /> 
 				Venue Rental Information<br /> 
