@@ -1,3 +1,9 @@
+/*
+*
+BASELINE STUFF & TYPOGRAPHY
+*
+*/
+
 * 	{
 	margin:0;
 }
@@ -14,11 +20,34 @@ body {
 }
 
 h1 {
-	font-size: 18px;
+	font-size: 19px;
 	font-weight: 100;
 	color: #d7cc01;
 	line-height: 22px;
 	text-align: left;
+	margin-bottom: 20px;
+}
+
+h2 {
+	font-size: 15px;
+	font-weight: 100;
+	color: #d7cc01;
+	line-height: 18px;
+	text-align: left;
+	margin-bottom: 16px;
+}
+
+p	{
+	margin-bottom: 16px;
+}
+
+a {
+	color: #eee;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #d7cc01;
 }
 
 #wrapper {
@@ -28,10 +57,16 @@ h1 {
 	margin: auto; 
 	font-family: verdana;
 	color: #a8a8a8;
-	font-size: 12px;
-	line-height: 18px;
+	font-size: 13px;
+	line-height: 17px;
 	text-align: justify;
 }
+
+/*
+ *
+ TOP OF THE PAGE
+ *
+*/
 
 #header {
 	height: 165px;
@@ -48,43 +83,31 @@ h1 {
 	text-transform: uppercase;
 }
 
-#header-wrap p {
-	color: #eee;
-	text-align: right;
-	padding-bottom: 10px;
-	font-size: 9px;
-}
-
-a {
-	color: #eee;
-	text-decoration: none;
-}
-
-a:hover {
-	color: #d7cc01;
-}
-
 #header-wrap a:hover {
 	color: #d7cc01;
 }
 
-.yellow {
-	color: #d7cc01;
+.newsletter {
+	float: right;
+	font-size: 10px;
 }
 
-.bold {
-	font-weight: bold;
+.topnav {
+	clear: both;
+	margin-top: 25px;
+	margin-right: -10px;
+	text-align: center;
 }
 
 ul.topnav li {
- display: inline;
+	display: inline;
 }
 
 ul.topnav a {
 	color: #eee;
 	text-decoration: none;
 	font-size: 12px;
-	padding: 10px;
+	padding: 13px;
 }
 
 #content-wrapper {
@@ -92,13 +115,19 @@ ul.topnav a {
 	margin: 5px 0 5px 108px;
 }
 
+/*
+ *
+ BANNER STYLING AND BACKGROUNDS
+ *
+*/
+
 #banner {
 	border: 1px solid #808080;
 }
 
 .header-copy {
-	width: 230px;
-	margin-left: 578px;
+	width: 260px;
+	margin-left: 548px;
 	margin-top: 69px;
 	}
 
@@ -156,6 +185,24 @@ ul.topnav a {
 	height: 241px;
 }
 
+/*
+ *
+ STYLING UTILITIES
+ *
+*/
+
+.yellow {
+	color: #d7cc01;
+}
+
+.white {
+	color:#fff;
+}
+
+.bold {
+	font-weight: bold;
+}
+
 .white-border {
 	border: 1px solid #fff;
 }
@@ -180,13 +227,29 @@ ul.topnav a {
 	padding-top: 20px;
 }
 
+.bottom-padding-20 {
+	padding-bottom: 20px;
+}
+
+.bottom-padding-40 {
+	padding-bottom: 40px;
+}
+
+.bottom-padding-60 {
+	padding-bottom: 60px;
+}
+
 .left-padding-40 {
 	padding-left: 40px;
 }
 
 .left-margin-425 {
 	margin-left: 425px;
-	}
+}
+
+.top-neg-mar-40 {
+	margin-top: -40px;
+}
 
 .grey-border {
 	border: 1px solid #808080;
@@ -208,41 +271,41 @@ ul.topnav a {
 	border-left: 1px solid #808080;
 }
 
-.bigger {
-	font-size: 15px;
+.float-left {
+	float: left;
 }
 
+.float-right {
+	float: right;
+}
+
+.clear-float {
+	clear: both;
+}
+
+.bigger {
+	font-size: 150%;
+	line-height: 150%;
+}
+
+.way-bigger {
+	font-size: 25px;
+}
+
+.smaller {
+	font-size: 60%;
+}
+
+/*
+ *
+ CONTENT AREA STUFF
+ *
+*/
 
 #content-area {
 	width: auto;
 	margin-top: 5px;
 	padding: 15px 0 30px 0;
-	min-height: 750px;
-	font-size: 12px;
-}
-
-#valet-content-area {
-	width: 785px;
-	border: 1px solid #808080;
-	margin-top: 5px;
-	padding: 15px 40px 30px 25px;
-	min-height: 320px;
-	background: rgba(0,0,0,.2);
-	font-size: 12px;
-}
-
-#content-area img {
-	margin-bottom: 10px;
-}
-
-#event-content-area {
-	width: 785px;
-	border: 1px solid #808080;
-	margin-top: 5px;
-	padding: 15px 40px 30px 25px;
-	min-height: 570px;
-	background: rgba(0,0,0,.2);
-	font-size: 12px;
 }
 
 #homepage-events {
@@ -250,13 +313,15 @@ ul.topnav a {
 	float: left;
 }
 
-.float-left {
+#div-left {
 	float: left;
-	margin-right: 20px;
+	width: 380px;
+	padding-right: 30px;
+	margin-right: 10px;
 }
 
-.float-right {
-	float: right;
+#div-right {
+	width: auto;
 }
 
 .home-info {
@@ -269,9 +334,6 @@ ul.topnav a {
 }
 
 #ads {
-	margin-top: 20px;
-	padding-top:20px;
-	border-top:1px solid #808080;
 	width: 300px;
 }
 
@@ -282,9 +344,8 @@ ul.topnav a {
 
 .event-info {
 	width: auto;
-	margin-right:0 ;
+	margin-right: 0;
 	padding-top: 5px;
-	text-align: left;
 }
 
 .event-info p {
@@ -314,7 +375,7 @@ p.home-days {
 }
  
 .sub {
-	width: 420px;
+	width: 300px;
 	clear: right;
 	float: left;
 	margin-top: 10px;
@@ -335,25 +396,19 @@ p.home-days {
     line-height: 20px;
 }
 
-.clear-float {
-	clear: both;
-}
-
 #map {
 	float: right;
-	margin-left: 25px;
 }
 
-#div-left {
-	float: left;
-	width: 380px;
-	margin-right: 40px;
+.disclaimer {
+	font-size: 8px;
+	text-align: left;
 }
 
-#div-right {
-	width: auto;
-	margin-left: 40px;
-}
+#contact {
+	float: right;
+	width: 420px;
+	}
 
 .keys {
 	margin-right: 50px;
@@ -366,6 +421,16 @@ p.home-days {
 
 .center {
 	position: 50%;
+}
+
+/*
+ *
+ FOOTER
+ *
+*/
+
+#footer {
+	clear: both;
 }
 
 ul.bottom-nav {

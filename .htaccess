@@ -8,5 +8,4 @@ RewriteRule ^(.*)$ http://unitedpalaceconcerts.com/$1 [R=301,L]
 RewriteCond %{HTTP_HOST} ^unitedpalacetheaterconcerts.com$ [NC]
 RewriteRule ^(.*)$ http://unitedpalaceconcerts.com/$1 [R=301,L]
 
-
 </IfModule>
