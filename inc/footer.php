@@ -1,15 +1,14 @@
 	 <div id="footer">
 			<ul class="bottom-nav">
 				<li><a href="./" title="Home">Home</a></li>
-				<li><a href="./events.php" title="Events">Events</a></li>
-				<li><a href="./seating.php" title="Seating">Seating</a></li>
-				<li><a href="./archive.php" title="Valet Parking">Archives</a></li>
-				<li><a href="./directions.php" title="Parking & Directions">Directions & Parking</a></li>
-				<li><a href="./rentals.php" title="Venue Rental">Venue Rental</a></li>
-				<li><a href="./live-production.php" title="Live Productions">Live Productions</a></li>
-				<li><a href="./contact.php" title="Contact">Contact</a></li>
-			</ul>
-	 <p class="copyright">&copy; Copyright 2010 <strong>United Palace Concerts</strong>. All rights reserved.  All trademarks and names mentioned herein are the property of their respective owners.  Best viewed in IE7 or better.</p>
+				<li><a href="./events.html" title="Events">Events</a></li>
+				<li><a href="./seating.html" title="Seating">Seating</a></li>
+				<li><a href="./archive.html" title="Valet Parking">Archives</a></li>
+				<li><a href="./directions.html" title="Parking & Directions">Directions & Parking</a></li>
+				<li><a href="./rentals.html" title="Venue Rental">Venue Rental</a></li>
+				<li><a href="./live-production.html" title="Live Productions">Live Productions</a></li>
+				<li><a href="./contact.html" title="Contact">Contact</a></li>			</ul>
+	 <p class="copyright">&copy; Copyright 2010 <strong>United Palace Concerts</strong>. All rights reserved.  All trademarks and names mentioned herein are the property of their respective owners.<br />Best viewed in standards compliant browsers.</p>
 	 <p class="us"><a target="_blank" href="http://almondtreemarketing.com">Powered by <strong class="yellow">Almond Tree Marketing</strong></a></p>
 	 </div>
 	</div><!--content wrapper, stretched over footer to keep off-centered-->

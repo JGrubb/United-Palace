@@ -10,6 +10,7 @@
 	<title>United Palace Concerts</title>
 	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
 	<link rel="stylesheet" href="css/archive.css" type="text/css" media="screen" />
+	<link href='http://fonts.googleapis.com/css?family=Josefin+Sans+Std+Light' rel='stylesheet' type='text/css'>
 	<meta name="description" content="The official website and concert calendar for United Palace Concerts in Washington Heights, New York." />
 	<meta name="keywords" content="United Palace Theater, United Palace Concerts, theater on broadway, Washington Heights, Heights, New, York, Concert, Live, Show, Reverend Ike" />
 	<meta name="google-site-verification" content="A_Tv96_FsVUKavgxKzcYLRTmj1cfREK3FZvgmWbDu5I" />
@@ -24,13 +25,13 @@
 			<span class="newsletter"><a href="#" onclick="window.open('http://eepurl.com/tRxR',  null, 'height=550, width=680, toolbar=0, location=0, status=1, scrollbars=1,resizable=1'); return false" title="United Palace Concerts eNewsletter signup">Sign up for our <span class="yellow">E-Newsletter</span></a></span>
 			<ul class="topnav">
 				<li><a href="./" title="Home">Home</a></li>
-				<li><a href="./events.php" title="Events">Events</a></li>
-				<li><a href="./seating.php" title="Seating">Seating</a></li>
-				<li><a href="./archive.php" title="Valet Parking">Archives</a></li>
-				<li><a href="./directions.php" title="Parking & Directions">Directions & Parking</a></li>
-				<li><a href="./rentals.php" title="Venue Rental">Venue Rental</a></li>
-				<li><a href="./live-production.php" title="Live Productions">Live Productions</a></li>
-				<li><a href="./contact.php" title="Contact">Contact</a></li>
+				<li><a href="./events.html" title="Events">Events</a></li>
+				<li><a href="./seating.html" title="Seating">Seating</a></li>
+				<li><a href="./archive.html" title="Valet Parking">Archives</a></li>
+				<li><a href="./directions.html" title="Parking & Directions">Directions & Parking</a></li>
+				<li><a href="./rentals.html" title="Venue Rental">Venue Rental</a></li>
+				<li><a href="./live-production.html" title="Live Productions">Live Productions</a></li>
+				<li><a href="./contact.html" title="Contact">Contact</a></li>
 			</ul>
 		</div>
 	</div><!--header-->

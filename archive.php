@@ -56,10 +56,8 @@
 				</div>
 			</div>
 			<div id="div-right">
-				<img src="images/archives-body.jpg" class="float-right grey-border top-margin-20 bottom-margin-20" width="410" />
-				<img src="images/placeholder.jpg" width="410" height="300" class="grey-border top-margin-20 float-right" title="PHOTO HERE"/>
-				<img src="images/placeholder.jpg" width="410" height="300" class="grey-border top-margin-20 float-right" title="PHOTO HERE"/>
-				<img src="images/placeholder.jpg" width="410" height="300" class="grey-border top-margin-20 float-right" title="PHOTO HERE"/>
+				<img src="images/archives-body1.jpg" width="410" height="300" class="float-right grey-border top-margin-20 bottom-margin-20" title="The view from the balcony on house left at the United Palace Concerts" />
+				<img src="images/archives-body2.jpg" width="410" height="300" class="grey-border top-margin-20 float-right" title="Warren Haynes and Derek Trucks of the Allman Brothers Band"/>
 			</div>
 		</div>
 <!--		

@@ -17,8 +17,8 @@
 				<a href="mailto:rentals@unitedpalaceconcerts.com">rentals@unitedpalaceconcerts.com</a></p> 
 			</div>
 			<div id="div-right">
-				<img src="images/placeholder.jpg" width="420" height="300" class="grey-border float-right top-margin-20" title="PHOTO HERE"/>
-				<img src="images/placeholder.jpg" width="420" height="300" class="grey-border float-right top-margin-20" title="PHOTO HERE"/>
+				<img src="images/rental-body1.jpg" width="420" height="300" class="grey-border float-right top-margin-20" title="The lobby of the United Palace Theater"/>
+				<img src="images/rental-body2.jpg" width="420" height="300" class="grey-border float-right top-margin-20" title="The view from the stage at the United Palace Theater"/>
 			</div>
 		</div>
 	
