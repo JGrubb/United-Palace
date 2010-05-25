@@ -37,8 +37,9 @@
 				<a href="mailto:rentals@unitedpalaceconcerts.com">rentals@unitedpalaceconcerts.com</a><br /><br />
 				
 				<strong>Sponsorship Information</strong><br />
-				If you'd like to advertise on this site or set up<br />
-				marketing partnerships with United Palace Concerts,<br /> please e-mail us at:<br />
+				For sponsorship or marketing opportunities with<br />
+				United Palace Concerts, please contact us at:<br />
+				212-496-7490<br />
 				<a href="sponsorships@unitedpalaceoncerts.com">sponsorships@unitedpalaceoncerts.com</a><br /><br />
 				
 				<strong>Will Call</strong><br />

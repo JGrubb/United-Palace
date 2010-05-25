@@ -2,7 +2,7 @@
 	
 	<div id="content-wrapper">
 		<div id="banner" class="directions">
-			<div class="header-copy">United Palace Concerts' locations at 175th and Broadway in Washington Heights, New York make it easily accessible to anyone in Manhattan, New York, the surrounding states and anywhere in the country.</div>
+			<div class="header-copy">United Palace Concerts' location at 175th and Broadway in Washington Heights, New York makes it easily accessible to anyone in Manhattan, New York, and the surrounding states.</div>
 		</div>
 		
 		<div id="content-area">

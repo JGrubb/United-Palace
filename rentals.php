@@ -7,6 +7,7 @@
 		</div>
 		<div id="content-area">
 			<div id="div-left">
+				<h1>Venue Rentals</h1>
 				<p class="top-margin-20">United Palace Concerts venue is one of New York's most exciting and unique architectural landmarks. Built in 1930 by a renowned architect and meticulously restored a number of years ago, the venue combines old-world glamour with modern-world state-of-the-art acoustics and amenities. We've been a concert destination for a variety of musical tastes for years, and now we're opening our doors for public and private event rental.</p>
 				<p>With a seating capacity of over 3,400, United Palace Concerts can accommodate your needs whatever the occasion may be. We provide complete packages for any type of event including, but not limited to, concerts, movie screenings, political functions, religious gatherings, company sales meetings, corporate events, award ceremonies, product line shows, new product introductions and family reunions.</p>
 				<p>Book your next memorable event at United Palace Concerts. Dates are filling up fast, so call or email us today!</p>	

@@ -57,7 +57,8 @@
 			</div>
 			<div id="div-right">
 				<img src="images/archives-body1.jpg" width="410" height="300" class="float-right grey-border top-margin-20 bottom-margin-20" title="The view from the balcony on house left at the United Palace Concerts" />
-				<img src="images/archives-body2.jpg" width="410" height="300" class="grey-border top-margin-20 float-right" title="Warren Haynes and Derek Trucks of the Allman Brothers Band"/>
+				<img src="images/archives-body2.jpg" width="410" height="300" class="grey-border top-margin-20 float-right" title="Warren Haynes of the Allman Brothers Band"/>
+				<img src="images/archives-body3.jpg" width="410" height="300" class="grey-border top-margin-20 float-right" title="Mark Knopfler of Dire Straits"/>
 			</div>
 		</div>
 <!--		

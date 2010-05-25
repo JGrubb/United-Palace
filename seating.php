@@ -2,7 +2,7 @@
 	
 	<div id="content-wrapper">
 		<div id="banner" class="seating">
-			<div class="header-copy">The fact that the theater for United Palace Concerts was originally built as a movie theater, coupled with the fact that it was refurbished as a church make the acoustics outstanding for all varieties of musical performances.  Please consult the chart below.</div>
+			<div class="header-copy">The fact that the theater for United Palace Concerts was originally built as a movie theater, then refurbished as a church makes the acoustics outstanding for all varieties of musical performances.  Please consult the chart below.</div>
 		</div>
 		
 		<div id="content-area">

@@ -29,8 +29,9 @@
 			 </div><!--sub wrapper-->
 			 <div id="ads">
 			 <img src="images/center-house.jpg" alt="The view from center house" class="white-border" width="300" height="200" />
-			 <a href="http://unitedpalaceconcerts.com/valet.html"><h1 class="top-margin-20 top-padding-20">Valet Parking</h1></a>
+			 <a href="./directions.html"><h1 class="top-margin-20 top-padding-20">Valet Parking</h1></a>
 			 <p>Simply drive up to the front entrance of the United Palace located at 4140 Broadway between 175th and 176th Street and receive your valet ticket.</p> 
+			 <a href="./directions.html"><img src="images/keys.jpg" title="Valet Service at United Palace Concerts" class="border-none left-margin-80" width="180" /></a>
 			 </div>
 		 </div><!--home events-->
 	 <div id="homepage-copy" class="left-border left-padding-40">
@@ -38,7 +39,7 @@
 	 <h1>Welcome</h1>
 	 <p class="top-margin-20">Welcome to United Palace Concerts, New York’s premier entertainment venue, where amazing live music is performed at the most spectacular place in NYC. We inspire artists to perform at their very best while providing you with a plush setting in which to enjoy your favorite music; from the magnificent design, eclectic ambiance and incredible acoustics, you’ll feel the energy immediately. And getting here couldn’t be easier as we’re just blocks from the GWB and minutes from all major public transportation. For that unforgettable musical experience that you and your friends will talk about for years to come, make United Palace Concerts your next concert destination.</p>
 
-	 <a href="rentals.php" title="United Palace Rentals"><h1 class="top-margin-20">United Palace Concerts is now accepting rental reservations for public or private use</h1></a><!-- STAYS-->
+	 <a href="./rentals.html" title="United Palace Rentals"><h1 class="top-margin-20">United Palace Concerts is now accepting rental reservations for public or private use</h1></a><!-- STAYS-->
 		<p>United Palace Concerts is available to host your next event. Concerts, television and film production, corporate and political functions, award ceremonies, new product introductions, product line shows and movie screenings - we can accommodate groups from 100 to 3,360.</p> 
 
 		<p>Call or email us to plan your next event at one of New York City's most spectacular architectural landmarks. Dates are booking up quickly for the 2010 season, so make your reservations today.</p>	<br />
@@ -52,7 +53,7 @@
 		
 	
 		 
-	<a href="live-production.php" title="Live Event Productions"><h1 class="top-margin-20">Our Full-Service Production Company will make your event a guaranteed success!</h1></a>
+	<a href="live-production.html" title="Live Event Productions"><h1 class="top-margin-20">Our Full-Service Production Company will make your event a guaranteed success!</h1></a>
 		
 
 					

@@ -2,15 +2,13 @@
 	
 	<div id="content-wrapper">
 		<div id="banner" class="events">
-			<div class="header-copy">United Palace Concerts is proud to be your preferred venue for some of the finest entertainers in the industry today.  To find out more about a particular show, click on it's link.  Check back often for event updates.</div>
+			<div class="header-copy">United Palace Concerts is proud to be your preferred venue for some of the finest entertainers in the industry today.  To find out more about a particular show, click on its link.  Check back often for event updates.</div>
 		</div>
-		
 		<div id="content-area">
 			<div id="div-left">
-				<p class="home-band"><a target="_blank" href="http://www.ticketmaster.com/event/0000448EF2629CB1?artistid=735024&majorcatid=10001&minorcatid=1">Melissa Etheridge &nbsp;&nbsp;<span class="yellow">&nbsp;&nbsp;July 14</span></a></p>
+				<p class="home-band"><a target="_blank" href="http://www.ticketmaster.com/event/0000448EF2629CB1?artistid=735024&majorcatid=10001&minorcatid=1">On Sale Now! &nbsp;&nbsp;<span class="yellow">&nbsp;&nbsp;July 14</span></a></p>
 				<a target="_blank" href="http://www.ticketmaster.com/event/0000448EF2629CB1?artistid=735024&majorcatid=10001&minorcatid=1"><img src="images/etheridge-3.jpg" alt="Melissa Etheridge" class="thick-white-border" width="380" height="432" /></a>
 				<div>&nbsp;</div>
-				<p class="home-band"><a href="http://www.ticketmaster.com/event/0000448EF2629CB1?artistid=735024&majorcatid=10001&minorcatid=1">On Sale Now!</a></p>
 			</div>
 			<div id="div-right" class="top-margin-60">
 				<p>"This album had to be about the songs," says Melissa Etheridge of her tenth studio album, Fearless Love.</p>

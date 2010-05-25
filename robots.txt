@@ -1,4 +1,11 @@
 User-agent: *
-Disallow: /
-Disallow: /*.php
+Disallow: /archive.php
+Disallow: /contact.php
+Disallow: /directions.php
+Disallow: /events.php
+Disallow: /index.php
+Disallow: /live-production.php
+Disallow: /privacy.php
+Disallow: /rentals.php
+Disallow: /seating.php
 
