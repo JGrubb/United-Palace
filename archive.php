@@ -1,4 +1,6 @@
-<?php include("inc/header.php") ?>
+<?php $pagetitle = "Archives";
+$description = "The United Palace has hosted a number of world class touring acts.  View some of the bands from the last four years.";
+include("inc/header.php"); ?>
 
 	<div id="content-wrapper">
 		<div id="banner" class="archive">

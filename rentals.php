@@ -1,4 +1,6 @@
-<?php include("inc/header.php") ?>
+<?php $pagetitle = "Rentals";
+	$description = "The United Palace Theater is available for rental for all types of events.  The unique architecture and atmosphere will make your event unforgettable.";
+	include("inc/header.php"); ?>
 	
 	<div id="content-wrapper">
 		<div id="banner" class="rentals">

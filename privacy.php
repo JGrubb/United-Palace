@@ -1,4 +1,6 @@
-<?php include("inc/header.php") ?>
+<?php $pagetitle = "Privacy";
+	$description = "United Palace Concerts web user privacy policy.";
+	include("inc/header.php"); ?>
 
 	<div id="content-wrapper">
 		<div id="content-area">

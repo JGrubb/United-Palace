@@ -1,4 +1,6 @@
-<?php include("inc/header.php") ?>
+<?php $pagetitle = "Live Productions";
+	$description = "JAB II handles event production large and small from New York to Los Angeles.";
+	include("inc/header.php"); ?>
 	
 	<div id="content-wrapper">
 		<div id="banner" class="production">

@@ -1,4 +1,6 @@
-<?php include("inc/header.php") ?>
+<?php $pagetitle="Home";
+$description = "The official website and concert calendar for United Palace Concerts at the United Palace Theater in Washington Heights, New York.";
+include("inc/header.php"); ?>
  
 	<!--Begin content area-->
  

@@ -1,4 +1,6 @@
-<?php include("inc/header.php") ?>
+<?php $pagetitle = "Directions";
+	$description = "Directions and parking information for the United Palace Theater in Washington Heights.";
+	include("inc/header.php"); ?>
 	
 	<div id="content-wrapper">
 		<div id="banner" class="directions">

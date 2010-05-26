@@ -1,4 +1,6 @@
-<?php include("inc/header.php") ?>
+<?php $pagetitle = "Events";
+	$description = "The concert calendar for the United Palace.";
+	include("inc/header.php"); ?>
 	
 	<div id="content-wrapper">
 		<div id="banner" class="events">
